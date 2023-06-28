@@ -1,1 +1,3 @@
-my_first_readme
+#Learning git
+
+Learning git is fun
